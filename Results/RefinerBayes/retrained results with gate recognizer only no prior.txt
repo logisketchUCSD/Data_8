@@ -1,0 +1,853 @@
+Prior for the class Label: 0.1821324
+
+Prior for the class XOR: 0.0321723
+
+Prior for the class NOT: 0.07072587
+
+Prior for the class Wire: 0.4512098
+
+Prior for the class AND: 0.09997341
+
+Prior for the class NOR: 0.01728264
+
+Prior for the class OR: 0.06859878
+
+Prior for the class NAND: 0.01781441
+
+Prior for the class LabelBox: 0.04626429
+
+Prior for the class NOTBUBBLE: 0.01382611
+
+For the class Label Wire Result: 0 Text Result: 9 Gate Result: XOR has probability: 0.00729927
+
+For the class Label Wire Result: 0 Text Result: 1 Gate Result: AND has probability: 0.04379562
+
+For the class Label Wire Result: 1 Text Result: 9 Gate Result: NOTBUBBLE has probability: 0.1255474
+
+For the class Label Wire Result: 1 Text Result: 9 Gate Result: AND has probability: 0.07153285
+
+For the class Label Wire Result: 0 Text Result: 1 Gate Result: NOT has probability: 0.08175182
+
+For the class Label Wire Result: 1 Text Result: 1 Gate Result: AND has probability: 0.1036496
+
+For the class Label Wire Resu'CircuitSimulatorUI.vshost.exe' (Managed): Loaded 'C:\Documents and Settings\Guest\My Documents\Sketch\Code\FrontEnd\CircuitSimulatorUI\bin\Debug\ConverterXML.dll', Symbols loaded.
+lt: 1 Text Result: 1 Gate Result: LabelBox has probability: 0.1124088
+
+For the class Label Wire Result: 0 Text Result: 1 Gate Result: XOR has probability: 0.01021898
+
+For the class Label Wire Result: 1 Text Result: 1 Gate Result: NOT has probability: 0.1021898
+
+For the class Label Wire Result: 0 Text Result: 1 Gate Result: LabelBox has probability: 0.03357664
+
+For the class Label Wire Result: 1 Text Result: 9 Gate Result: LabelBox has probability: 0.01021898
+
+For the class Label Wire Result: 1 Text Result: 9 Gate Result: OR has probability: 0.04817518
+
+For the class Label Wire Result: 1 Text Result: 1 Gate Result: NOTBUBBLE has probability: 0.05547445
+
+For the class Label Wire Result: 0 Text Result: 1 Gate Result: OR has probability: 0.02481752
+
+For the class Label Wire Result: 0 Text Result: 9 Gate Result: OR has probability: 0.02335766
+
+For the class Label Wire Result: 0 Text Result: 9 Gate Result: NOR has probability: 0.005839416
+
+For the class Label Wire Result: 1 Text Result: 9 Gate Result: NOT has probability: 0.02189781
+
+For the class Label Wire Result: 0 Text Result: 1 Gate Result: NOR has probability: 0.004379562
+
+For the class Label Wire Result: 1 Text Result: 9 Gate Result: XOR has probability: 0.001459854
+
+For the class Label Wire Result: 0 Text Result: 9 Gate Result: NOT has probability: 0.02189781
+
+For the class Label Wire Result: 1 Text Result: 1 Gate Result: OR has probability: 0.04525547
+
+For the class Label Wire Result: 1 Text Result: 1 Gate Result: NOR has probability: 0.002919708
+
+For the class Label Wire Result: 0 Text Result: 9 Gate Result: AND has probability: 0.02919708
+
+For the class Label Wire Result: 0 Text Result: 9 Gate Result: LabelBox has probability: 0.004379562
+
+For the class Label Wire Result: 1 Text Result: 1 Gate Result: XOR has probability: 0.004379562
+
+For the class Label Wire Result: 1 Text Result: 1 Gate Result: NAND has probability: 0.002919708
+
+For the class Label Wire Result: 1 Text Result: 5 Gate Result: NOTBUBBLE has probability: 0.001459854
+
+For the class XOR Wire Result: 1 Text Result: 1 Gate Result: XOR has probability: 0.05785124
+
+For the class XOR Wire Result: 1 Text Result: 1 Gate Result: NOT has probability: 0.008264462
+
+For the class XOR Wire Result: 0 Text Result: 1 Gate Result: XOR has probability: 0.5950413
+
+For the class XOR Wire Result: 0 Text Result: 1 Gate Result: NOT has probability: 0.08264463
+
+For the class XOR Wire Result: 0 Text Result: 1 Gate Result: OR has probability: 0.05785124
+
+For the class XOR Wire Result: 0 Text Result: 9 Gate Result: XOR has probability: 0.08264463
+
+For the class XOR Wire Result: 0 Text Result: 1 Gate Result: NOR has probability: 0.03305785
+
+For the class XOR Wire Result: 0 Text Result: 9 Gate Result: NOT has probability: 0.01652892
+
+For the class XOR Wire Result: 0 Text Result: 9 Gate Result: NOR has probability: 0.008264462
+
+For the class XOR Wire Result: 1 Text Result: 9 Gate Result: OR has probability: 0.008264462
+
+For the class XOR Wire Result: 1 Text Result: 1 Gate Result: OR has probability: 0.03305785
+
+For the class XOR Wire Result: 0 Text Result: 1 Gate Result: NAND has probability: 0.008264462
+
+For the class XOR Wire Result: 1 Text Result: 9 Gate Result: XOR has probability: 0.008264462
+
+For the class NOT Wire Result: 0 Text Result: 1 Gate Result: NOT has probability: 0.5300752
+
+For the class NOT Wire Result: 1 Text Result: 1 Gate Result: NOT has probability: 0.1052632
+
+For the class NOT Wire Result: 0 Text Result: 1 Gate Result: AND has probability: 0.01879699
+
+For the class NOT Wire Result: 0 Text Result: 1 Gate Result: NOR has probability: 0.08646616
+
+For the class NOT Wire Result: 0 Text Result: 1 Gate Result: OR has probability: 0.02255639
+
+For the class NOT Wire Result: 0 Text Result: 9 Gate Result: NOT has probability: 0.1015038
+
+For the class NOT Wire Result: 0 Text Result: 9 Gate Result: LabelBox has probability: 0.003759399
+
+For the class NOT Wire Result: 1 Text Result: 1 Gate Result: LabelBox has probability: 0.007518797
+
+For the class NOT Wire Result: 0 Text Result: 1 Gate Result: XOR has probability: 0.003759399
+
+For the class NOT Wire Result: 1 Text Result: 1 Gate Result: AND has probability: 0.01503759
+
+For the class NOT Wire Result: 0 Text Result: 9 Gate Result: NAND has probability: 0.01503759
+
+For the class NOT Wire Result: 0 Text Result: 1 Gate Result: LabelBox has probability: 0.01503759
+
+For the class NOT Wire Result: 0 Text Result: 9 Gate Result: NOR has probability: 0.02255639
+
+For the class NOT Wire Result: 0 Text Result: 5 Gate Result: NOR has probability: 0.003759399
+
+For the class NOT Wire Result: 0 Text Result: 1 Gate Result: NAND has probability: 0.007518797
+
+For the class NOT Wire Result: 1 Text Result: 9 Gate Result: NOT has probability: 0.01503759
+
+For the class NOT Wire Result: 1 Text Result: 1 Gate Result: NOR has probability: 0.007518797
+
+For the class NOT Wire Result: 1 Text Result: 9 Gate Result: NOR has probability: 0.007518797
+
+For the class NOT Wire Result: 1 Text Result: 9 Gate Result: NOTBUBBLE has probability: 0.003759399
+
+For the class NOT Wire Result: 1 Text Result: 1 Gate Result: OR has probability: 0.007518797
+
+For the class Wire Wire Result: 1 Text Result: 9 Gate Result: OR has probability: 0.09664113
+
+For the class Wire Wire Result: 1 Text Result: 1 Gate Result: AND has probability: 0.03712434
+
+For the class Wire Wire Result: 1 Text Result: 1 Gate Result: OR has probability: 0.490277
+
+For the class Wire Wire Result: 1 Text Result: 1 Gate Result: NOT has probability: 0.03476724
+
+For the class Wire Wire Result: 1 Text Result: 9 Gate Result: AND has probability: 0.01532116
+
+For the class Wire Wire Result: 1 Text Result: 1 Gate Result: LabelBox has probability: 0.06717737
+
+For the class Wire Wire Result: 1 Text Result: 1 Gate Result: XOR has probability: 0.01473188
+
+For the class Wire Wire Result: 0 Text Result: 1 Gate Result: OR has probability: 0.05008839
+
+For the class Wire Wire Result: 0 Text Result: 1 Gate Result: NOR has probability: 0.02474956
+
+For the class Wire Wire Result: 1 Text Result: 1 Gate Result: NOTBUBBLE has probability: 0.01532116
+
+For the class Wire Wire Result: 0 Text Result: 9 Gate Result: OR has probability: 0.0117855
+
+For the class Wire Wire Result: 0 Text Result: 1 Gate Result: NOT has probability: 0.03476724
+
+For the class Wire Wire Result: 0 Text Result: 1 Gate Result: LabelBox has probability: 0.02357101
+
+For the class Wire Wire Result: 1 Text Result: 9 Gate Result: NOT has probability: 0.01237478
+
+For the class Wire Wire Result: 0 Text Result: 1 Gate Result: XOR has probability: 0.02828521
+
+For the class Wire Wire Result: 1 Text Result: 1 Gate Result: NOR has probability: 0.007660578
+
+For the class Wire Wire Result: 0 Text Result: 9 Gate Result: NOR has probability: 0.002946376
+
+For the class Wire Wire Result: 1 Text Result: 5 Gate Result: LabelBox has probability: 0.0005892752
+
+For the class Wire Wire Result: 1 Text Result: 9 Gate Result: XOR has probability: 0.005303477
+
+For the class Wire Wire Result: 0 Text Result: 1 Gate Result: AND has probability: 0.002357101
+
+For the class Wire Wire Result: 1 Text Result: 9 Gate Result: NOR has probability: 0.003535651
+
+For the class Wire Wire Result: 0 Text Result: 9 Gate Result: NOT has probability: 0.005303477
+
+For the class Wire Wire Result: 0 Text Result: 9 Gate Result: XOR has probability: 0.007071302
+
+For the class Wire Wire Result: 1 Text Result: 9 Gate Result: LabelBox has probability: 0.006482027
+
+For the class Wire Wire Result: 0 Text Result: 9 Gate Result: LabelBox has probability: 0.00117855
+
+For the class Wire Wire Result: 1 Text Result: 5 Gate Result: OR has probability: 0.0005892752
+
+For the class AND Wire Result: 1 Text Result: 9 Gate Result: AND has probability: 0.2553191
+
+For the class AND Wire Result: 1 Text Result: 1 Gate Result: AND has probability: 0.5505319
+
+For the class AND Wire Result: 0 Text Result: 9 Gate Result: AND has probability: 0.01329787
+
+For the class AND Wire Result: 0 Text Result: 1 Gate Result: AND has probability: 0.02659575
+
+For the class AND Wire Result: 1 Text Result: 5 Gate Result: AND has probability: 0.002659574
+
+For the class AND Wire Result: 0 Text Result: 1 Gate Result: NAND has probability: 0.0106383
+
+For the class AND Wire Result: 1 Text Result: 1 Gate Result: NOT has probability: 0.01329787
+
+For the class AND Wire Result: 1 Text Result: 9 Gate Result: OR has probability: 0.0106383
+
+For the class AND Wire Result: 1 Text Result: 9 Gate Result: NOTBUBBLE has probability: 0.005319149
+
+For the class AND Wire Result: 1 Text Result: 1 Gate Result: NAND has probability: 0.0212766
+
+For the class AND Wire Result: 1 Text Result: 1 Gate Result: NOTBUBBLE has probability: 0.005319149
+
+For the class AND Wire Result: 0 Text Result: 1 Gate Result: LabelBox has probability: 0.005319149
+
+For the class AND Wire Result: 0 Text Result: 9 Gate Result: OR has probability: 0.005319149
+
+For the class AND Wire Result: 0 Text Result: 1 Gate Result: NOT has probability: 0.01595745
+
+For the class AND Wire Result: 1 Text Result: 1 Gate Result: LabelBox has probability: 0.02925532
+
+For the class AND Wire Result: 0 Text Result: 9 Gate Result: LabelBox has probability: 0.002659574
+
+For the class AND Wire Result: 1 Text Result: 1 Gate Result: OR has probability: 0.02393617
+
+For the class AND Wire Result: 0 Text Result: 1 Gate Result: OR has probability: 0.002659574
+
+For the class NOR Wire Result: 0 Text Result: 9 Gate Result: NOR has probability: 0.04615385
+
+For the class NOR Wire Result: 0 Text Result: 1 Gate Result: OR has probability: 0.1692308
+
+For the class NOR Wire Result: 0 Text Result: 1 Gate Result: NOR has probability: 0.4153846
+
+For the class NOR Wire Result: 0 Text Result: 1 Gate Result: NOT has probability: 0.1076923
+
+For the class NOR Wire Result: 0 Text Result: 9 Gate Result: NAND has probability: 0.03076923
+
+For the class NOR Wire Result: 0 Text Result: 9 Gate Result: OR has probability: 0.04615385
+
+For the class NOR Wire Result: 1 Text Result: 1 Gate Result: NOR has probability: 0.06153846
+
+For the class NOR Wire Result: 0 Text Result: 9 Gate Result: AND has probability: 0.01538462
+
+For the class NOR Wire Result: 0 Text Result: 1 Gate Result: XOR has probability: 0.01538462
+
+For the class NOR Wire Result: 0 Text Result: 5 Gate Result: NOT has probability: 0.01538462
+
+For the class NOR Wire Result: 0 Text Result: 1 Gate Result: AND has probability: 0.01538462
+
+For the class NOR Wire Result: 1 Text Result: 1 Gate Result: XOR has probability: 0.01538462
+
+For the class NOR Wire Result: 1 Text Result: 1 Gate Result: OR has probability: 0.01538462
+
+For the class NOR Wire Result: 0 Text Result: 1 Gate Result: NAND has probability: 0.01538462
+
+For the class NOR Wire Result: 0 Text Result: 9 Gate Result: NOT has probability: 0.01538462
+
+For the class OR Wire Result: 1 Text Result: 9 Gate Result: OR has probability: 0.1317829
+
+For the class OR Wire Result: 1 Text Result: 1 Gate Result: OR has probability: 0.2131783
+
+For the class OR Wire Result: 1 Text Result: 9 Gate Result: AND has probability: 0.1356589
+
+For the class OR Wire Result: 0 Text Result: 1 Gate Result: OR has probability: 0.1821705
+
+For the class OR Wire Result: 1 Text Result: 1 Gate Result: AND has probability: 0.09302326
+
+For the class OR Wire Result: 1 Text Result: 1 Gate Result: NOT has probability: 0.01937984
+
+For the class OR Wire Result: 0 Text Result: 1 Gate Result: NAND has probability: 0.003875969
+
+For the class OR Wire Result: 1 Text Result: 1 Gate Result: LabelBox has probability: 0.03100775
+
+For the class OR Wire Result: 0 Text Result: 1 Gate Result: XOR has probability: 0.003875969
+
+For the class OR Wire Result: 0 Text Result: 1 Gate Result: NOT has probability: 0.09302326
+
+For the class OR Wire Result: 1 Text Result: 9 Gate Result: LabelBox has probability: 0.01162791
+
+For the class OR Wire Result: 1 Text Result: 9 Gate Result: NOTBUBBLE has probability: 0.003875969
+
+For the class OR Wire Result: 0 Text Result: 1 Gate Result: NOR has probability: 0.003875969
+
+For the class OR Wire Result: 1 Text Result: 1 Gate Result: NOTBUBBLE has probability: 0.003875969
+
+For the class OR Wire Result: 0 Text Result: 9 Gate Result: OR has probability: 0.03100775
+
+For the class OR Wire Result: 0 Text Result: 1 Gate Result: LabelBox has probability: 0.01162791
+
+For the class OR Wire Result: 0 Text Result: 9 Gate Result: NOT has probability: 0.003875969
+
+For the class OR Wire Result: 1 Text Result: 9 Gate Result: NOT has probability: 0.007751938
+
+For the class OR Wire Result: 1 Text Result: 9 Gate Result: NOR has probability: 0.007751938
+
+For the class OR Wire Result: 1 Text Result: 1 Gate Result: NOR has probability: 0.003875969
+
+For the class OR Wire Result: 0 Text Result: 9 Gate Result: AND has probability: 0.003875969
+
+For the class NAND Wire Result: 0 Text Result: 1 Gate Result: NAND has probability: 0.1492537
+
+For the class NAND Wire Result: 0 Text Result: 1 Gate Result: NOT has probability: 0.08955224
+
+For the class NAND Wire Result: 0 Text Result: 9 Gate Result: NAND has probability: 0.1343284
+
+For the class NAND Wire Result: 1 Text Result: 1 Gate Result: NOT has probability: 0.01492537
+
+For the class NAND Wire Result: 0 Text Result: 1 Gate Result: NOR has probability: 0.119403
+
+For the class NAND Wire Result: 1 Text Result: 1 Gate Result: OR has probability: 0.02985075
+
+For the class NAND Wire Result: 0 Text Result: 1 Gate Result: OR has probability: 0.1343284
+
+For the class NAND Wire Result: 0 Text Result: 9 Gate Result: AND has probability: 0.01492537
+
+For the class NAND Wire Result: 0 Text Result: 9 Gate Result: OR has probability: 0.1492537
+
+For the class NAND Wire Result: 1 Text Result: 9 Gate Result: NAND has probability: 0.02985075
+
+For the class NAND Wire Result: 0 Text Result: 1 Gate Result: AND has probability: 0.04477612
+
+For the class NAND Wire Result: 0 Text Result: 1 Gate Result: LabelBox has probability: 0.01492537
+
+For the class NAND Wire Result: 0 Text Result: 9 Gate Result: NOR has probability: 0.01492537
+
+For the class NAND Wire Result: 1 Text Result: 1 Gate Result: NAND has probability: 0.02985075
+
+For the class NAND Wire Result: 1 Text Result: 1 Gate Result: AND has probability: 0.01492537
+
+For the class NAND Wire Result: 0 Text Result: 1 Gate Result: XOR has probability: 0.01492537
+
+For the class LabelBox Wire Result: 0 Text Result: 1 Gate Result: LabelBox has probability: 0.137931
+
+For the class LabelBox Wire Result: 1 Text Result: 1 Gate Result: LabelBox has probability: 0.1551724
+
+For the class LabelBox Wire Result: 0 Text Result: 1 Gate Result: NOT has probability: 0.02873563
+
+For the class LabelBox Wire Result: 1 Text Result: 1 Gate Result: NOT has probability: 0.02298851
+
+For the class LabelBox Wire Result: 1 Text Result: 1 Gate Result: OR has probability: 0.1034483
+
+For the class LabelBox Wire Result: 0 Text Result: 9 Gate Result: NAND has probability: 0.005747126
+
+For the class LabelBox Wire Result: 0 Text Result: 1 Gate Result: NAND has probability: 0.05172414
+
+For the class LabelBox Wire Result: 0 Text Result: 1 Gate Result: AND has probability: 0.08045977
+
+For the class LabelBox Wire Result: 1 Text Result: 1 Gate Result: NAND has probability: 0.05747126
+
+For the class LabelBox Wire Result: 1 Text Result: 1 Gate Result: AND has probability: 0.1666667
+
+For the class LabelBox Wire Result: 0 Text Result: 1 Gate Result: OR has probability: 0.03448276
+
+For the class LabelBox Wire Result: 0 Text Result: 9 Gate Result: NOR has probability: 0.005747126
+
+For the class LabelBox Wire Result: 1 Text Result: 9 Gate Result: AND has probability: 0.04022989
+
+For the class LabelBox Wire Result: 1 Text Result: 9 Gate Result: NAND has probability: 0.01149425
+
+For the class LabelBox Wire Result: 0 Text Result: 9 Gate Result: AND has probability: 0.02298851
+
+For the class LabelBox Wire Result: 0 Text Result: 9 Gate Result: LabelBox has probability: 0.01149425
+
+For the class LabelBox Wire Result: 0 Text Result: 1 Gate Result: XOR has probability: 0.005747126
+
+For the class LabelBox Wire Result: 0 Text Result: 1 Gate Result: NOR has probability: 0.02298851
+
+For the class LabelBox Wire Result: 0 Text Result: 9 Gate Result: OR has probability: 0.005747126
+
+For the class LabelBox Wire Result: 1 Text Result: 9 Gate Result: NOTBUBBLE has probability: 0.005747126
+
+For the class LabelBox Wire Result: 1 Text Result: 1 Gate Result: NOTBUBBLE has probability: 0.005747126
+
+For the class LabelBox Wire Result: 1 Text Result: 9 Gate Result: OR has probability: 0.005747126
+
+For the class LabelBox Wire Result: 1 Text Result: 9 Gate Result: NOT has probability: 0.005747126
+
+For the class LabelBox Wire Result: 1 Text Result: 9 Gate Result: LabelBox has probability: 0.005747126
+
+For the class NOTBUBBLE Wire Result: 1 Text Result: 9 Gate Result: NOTBUBBLE has probability: 0.25
+
+For the class NOTBUBBLE Wire Result: 1 Text Result: 1 Gate Result: NOTBUBBLE has probability: 0.1923077
+
+For the class NOTBUBBLE Wire Result: 1 Text Result: 1 Gate Result: AND has probability: 0.1923077
+
+For the class NOTBUBBLE Wire Result: 1 Text Result: 9 Gate Result: AND has probability: 0.1538462
+
+For the class NOTBUBBLE Wire Result: 1 Text Result: 9 Gate Result: LabelBox has probability: 0.09615385
+
+For the class NOTBUBBLE Wire Result: 1 Text Result: 1 Gate Result: LabelBox has probability: 0.05769231
+
+For the class NOTBUBBLE Wire Result: 1 Text Result: 1 Gate Result: OR has probability: 0.05769231
+
+_____________________
+
+For the class Label The feature [] has probability: 0.119708
+
+For the class Label The feature [Wire] has probability: 0.6218978
+
+For the class Label The feature [Gate] has probability: 0.2379562
+
+For the class Label The feature [WireWire] has probability: 0.01605839
+
+For the class Label The feature [GateWire] has probability: 0.004379562
+
+For the class XOR The feature [WireWireWire] has probability: 0.8347107
+
+For the class XOR The feature [Wire] has probability: 0.01652892
+
+For the class XOR The feature [WireWire] has probability: 0.1487603
+
+For the class NOT The feature [Wire] has probability: 0.1428571
+
+For the class NOT The feature [WireWireWire] has probability: 0.02631579
+
+For the class NOT The feature [WireWire] has probability: 0.7932331
+
+For the class NOT The feature [] has probability: 0.03759398
+
+For the class Wire The feature [GateWire] has probability: 0.03476724
+
+For the class Wire The feature [GateGateWire] has probability: 0.05126694
+
+For the class Wire The feature [GateGateWireWire] has probability: 0.01296405
+
+For the class Wire The feature [GateGate] has probability: 0.4242781
+
+For the class Wire The feature [GateLabel] has probability: 0.1272834
+
+For the class Wire The feature [GateGateGateWire] has probability: 0.02651738
+
+For the class Wire The feature [GateGateGate] has probability: 0.05480259
+
+For the class Wire The feature [Label] has probability: 0.007071302
+
+For the class Wire The feature [Gate] has probability: 0.09605186
+
+For the class Wire The feature [GateLabelWire] has probability: 0.006482027
+
+For the class Wire The feature [GateGateLabelWire] has probability: 0.02180318
+
+For the class Wire The feature [GateGateGateLabel] has probability: 0.01532116
+
+For the class Wire The feature [GateGateLabel] has probability: 0.03830289
+
+For the class Wire The feature [GateGateWireWireWire] has probability: 0.004124926
+
+For the class Wire The feature [GateGateGateLabelWireWire] has probability: 0.01355333
+
+For the class Wire The feature [GateGateGateWireWireWire] has probability: 0.003535651
+
+For the class Wire The feature [LabelLabelWire] has probability: 0.0005892752
+
+For the class Wire The feature [GateGateLabelWireWire] has probability: 0.008249853
+
+For the class Wire The feature [GateGateGateWireWire] has probability: 0.006482027
+
+For the class Wire The feature [GateGateLabelLabelWire] has probability: 0.001767826
+
+For the class Wire The feature [GateGateGateLabelWire] has probability: 0.01001768
+
+For the class Wire The feature [GateGateGateGate] has probability: 0.004714202
+
+For the class Wire The feature [GateGateGateGateWire] has probability: 0.005892752
+
+For the class Wire The feature [GateGateLabelWireWireWire] has probability: 0.00117855
+
+For the class Wire The feature [GateGateGateGateWireWire] has probability: 0.004124926
+
+For the class Wire The feature [GateGateGateGateWireWireWire] has probability: 0.0005892752
+
+For the class Wire The feature [GateGateGateGateLabel] has probability: 0.0005892752
+
+For the class Wire The feature [GateGateLabelLabelWireWire] has probability: 0.0005892752
+
+For the class Wire The feature [Wire] has probability: 0.001767826
+
+For the class Wire The feature [WireWire] has probability: 0.0005892752
+
+For the class Wire The feature [GateWireWireWireWire] has probability: 0.0005892752
+
+For the class Wire The feature [GateGateGateLabelWireWireWire] has probability: 0.002946376
+
+For the class Wire The feature [GateWireWire] has probability: 0.003535651
+
+For the class Wire The feature [GateGateLabelLabel] has probability: 0.001767826
+
+For the class Wire The feature [GateGateWireWireWireWire] has probability: 0.0005892752
+
+For the class Wire The feature [GateGateGateLabelWireWireWireWire] has probability: 0.0005892752
+
+For the class Wire The feature [GateGateGateWireWireWireWire] has probability: 0.0005892752
+
+For the class Wire The feature [GateGateGateLabelWireWireWireWireWire] has probability: 0.0005892752
+
+For the class Wire The feature [GateGateLabelWireWireWireWire] has probability: 0.0005892752
+
+For the class Wire The feature [GateGateGateGateWireWireWireWire] has probability: 0.0005892752
+
+For the class Wire The feature [LabelWire] has probability: 0.0005892752
+
+For the class Wire The feature [WireWireWire] has probability: 0.0005892752
+
+For the class Wire The feature [GateWireWireWire] has probability: 0.0005892752
+
+For the class Wire The feature [GateLabelLabel] has probability: 0.0005892752
+
+For the class AND The feature [WireWire] has probability: 0.1675532
+
+For the class AND The feature [WireWireWire] has probability: 0.7207447
+
+For the class AND The feature [Wire] has probability: 0.02393617
+
+For the class AND The feature [] has probability: 0.002659574
+
+For the class AND The feature [GateWireWire] has probability: 0.04787234
+
+For the class AND The feature [WireWireWireWire] has probability: 0.0106383
+
+For the class AND The feature [GateWireWireWire] has probability: 0.007978723
+
+For the class AND The feature [GateGateWireWire] has probability: 0.002659574
+
+For the class AND The feature [GateGateWire] has probability: 0.005319149
+
+For the class AND The feature [GateGate] has probability: 0.002659574
+
+For the class AND The feature [GateWire] has probability: 0.005319149
+
+For the class AND The feature [Gate] has probability: 0.002659574
+
+For the class NOR The feature [WireWire] has probability: 0.2307692
+
+For the class NOR The feature [WireWireWire] has probability: 0.7076923
+
+For the class NOR The feature [GateWireWire] has probability: 0.03076923
+
+For the class NOR The feature [GateWireWireWire] has probability: 0.01538462
+
+For the class NOR The feature [Wire] has probability: 0.01538462
+
+For the class OR The feature [WireWireWire] has probability: 0.5736434
+
+For the class OR The feature [Wire] has probability: 0.02325581
+
+For the class OR The feature [WireWire] has probability: 0.1395349
+
+For the class OR The feature [WireWireWireWire] has probability: 0.2209302
+
+For the class OR The feature [GateWire] has probability: 0.003875969
+
+For the class OR The feature [] has probability: 0.003875969
+
+For the class OR The feature [GateWireWire] has probability: 0.02325581
+
+For the class OR The feature [GateGateWireWireWire] has probability: 0.003875969
+
+For the class OR The feature [WireWireWireWireWire] has probability: 0.003875969
+
+For the class OR The feature [GateGateWire] has probability: 0.003875969
+
+For the class NAND The feature [WireWireWire] has probability: 0.7313433
+
+For the class NAND The feature [WireWire] has probability: 0.2089552
+
+For the class NAND The feature [GateWireWire] has probability: 0.04477612
+
+For the class NAND The feature [Wire] has probability: 0.01492537
+
+For the class LabelBox The feature [LabelWire] has probability: 0.8563218
+
+For the class LabelBox The feature [Wire] has probability: 0.04597701
+
+For the class LabelBox The feature [Label] has probability: 0.09195402
+
+For the class LabelBox The feature [LabelWireWire] has probability: 0.005747126
+
+For the class NOTBUBBLE The feature [GateWire] has probability: 0.9038461
+
+For the class NOTBUBBLE The feature [WireWire] has probability: 0.09615385
+
+_____________________
+
+For the class Label The feature 3strokes has probability: 0.08029197
+
+For the class Label The feature 2strokes has probability: 0.4890511
+
+For the class Label The feature 1strokes has probability: 0.4189781
+
+For the class Label The feature 4strokes has probability: 0.00729927
+
+For the class Label The feature 5strokes has probability: 0.001459854
+
+For the class Label The feature 6strokes has probability: 0.002919708
+
+For the class XOR The feature 3strokes has probability: 0.5041322
+
+For the class XOR The feature 4strokes has probability: 0.3966942
+
+For the class XOR The feature 2strokes has probability: 0.07438017
+
+For the class XOR The feature 5strokes has probability: 0.02479339
+
+For the class NOT The feature 4strokes has probability: 0.2105263
+
+For the class NOT The feature 2strokes has probability: 0.2593985
+
+For the class NOT The feature 3strokes has probability: 0.5150376
+
+For the class NOT The feature 6strokes has probability: 0.007518797
+
+For the class NOT The feature 1strokes has probability: 0.003759399
+
+For the class NOT The feature 5strokes has probability: 0.003759399
+
+For the class Wire The feature 1strokes has probability: 0.5527402
+
+For the class Wire The feature 2strokes has probability: 0.1885681
+
+For the class Wire The feature 3strokes has probability: 0.1072481
+
+For the class Wire The feature 4strokes has probability: 0.07012375
+
+For the class Wire The feature 5strokes has probability: 0.03889216
+
+For the class Wire The feature 6strokes has probability: 0.01708898
+
+For the class Wire The feature 7strokes has probability: 0.0117855
+
+For the class Wire The feature 8strokes has probability: 0.007660578
+
+For the class Wire The feature 10strokes has probability: 0.00117855
+
+For the class Wire The feature 9strokes has probability: 0.004124926
+
+For the class Wire The feature 12strokes has probability: 0.0005892752
+
+For the class AND The feature 2strokes has probability: 0.8510638
+
+For the class AND The feature 3strokes has probability: 0.07712766
+
+For the class AND The feature 1strokes has probability: 0.06117021
+
+For the class AND The feature 4strokes has probability: 0.005319149
+
+For the class AND The feature 6strokes has probability: 0.005319149
+
+For the class NOR The feature 3strokes has probability: 0.4769231
+
+For the class NOR The feature 2strokes has probability: 0.1076923
+
+For the class NOR The feature 4strokes has probability: 0.3846154
+
+For the class NOR The feature 5strokes has probability: 0.01538462
+
+For the class NOR The feature 6strokes has probability: 0.01538462
+
+For the class OR The feature 2strokes has probability: 0.5116279
+
+For the class OR The feature 3strokes has probability: 0.3604651
+
+For the class OR The feature 1strokes has probability: 0.07751938
+
+For the class OR The feature 4strokes has probability: 0.03488372
+
+For the class OR The feature 5strokes has probability: 0.01550388
+
+For the class NAND The feature 3strokes has probability: 0.880597
+
+For the class NAND The feature 4strokes has probability: 0.07462686
+
+For the class NAND The feature 5strokes has probability: 0.02985075
+
+For the class NAND The feature 2strokes has probability: 0.01492537
+
+For the class LabelBox The feature 5strokes has probability: 0.1609195
+
+For the class LabelBox The feature 7strokes has probability: 0.005747126
+
+For the class LabelBox The feature 4strokes has probability: 0.1149425
+
+For the class LabelBox The feature 2strokes has probability: 0.2701149
+
+For the class LabelBox The feature 3strokes has probability: 0.2183908
+
+For the class LabelBox The feature 1strokes has probability: 0.183908
+
+For the class LabelBox The feature 6strokes has probability: 0.03448276
+
+For the class LabelBox The feature 9strokes has probability: 0.005747126
+
+For the class LabelBox The feature 8strokes has probability: 0.005747126
+
+For the class NOTBUBBLE The feature 1strokes has probability: 1
+
+TESTING RESULTS
+
+C:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\01_COPY1_UCR_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\02_COPY1_UCR_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\03_COPY1_UCR_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\04_COPY1_UCR_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\04_EQ1_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\04_EQ2_UCR_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\04_EQ2_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\05_EQ1_UCR_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\05_EQ1_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\05_EQ2_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\06_EQ1_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\07_EQ1_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\08_COPY2_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\08_EQ1_UCR_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\09_COPY1_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\10_COPY1_UCR_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\10_COPY2_UCR_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\10_EQ2_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\11_COPY1_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\11_EQ2_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\12_EQ1_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\12_EQ2_UCR_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\13_EQ1_HMC_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\14_COPY2_HMC_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\14_EQ2_HMC_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\15_EQ1_HMC_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\16_COPY2_HMC_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\17_COPY1_HMC_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\18_COPY2_HMC_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\18_EQ1_HMC_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\19_COPY1_HMC_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\19_EQ1_HMC_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\20_COPY1_HMC_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\20_EQ2_HMC_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\21_COPY2_HMC_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\22_COPY2_HMC_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\23_COPY2_HMC_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\24_COPY1_HMC_P.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\24_COPY1_HMC_T.labeled.xmlC:\Documents and Settings\Guest\My Documents\Sketch\Data\ConnectionLabeledData\NewConnectedTesting\24_EQ2_HMC_T.labeled.xml'CircuitSimulatorUI.vshost.exe' (Managed): Loaded 'C:\Documents and Settings\Guest\My Documents\Sketch\Code\FrontEnd\CircuitSimulatorUI\bin\Debug\WireRecognizer.dll', Symbols loaded.
+'CircuitSimulatorUI.vshost.exe' (Managed): Loaded 'C:\Documents and Settings\Guest\My Documents\Sketch\Code\FrontEnd\CircuitSimulatorUI\bin\Debug\TextRecognition.exe', Symbols loaded.
+The thread 0xe60 has exited with code 0 (0x0).
+The thread 0xc88 has exited with code 0 (0x0).
+Correct label: Label Labeled as: Label : 0.8971428
+
+Correct label: Label Labeled as: NOT : 0.04571429
+
+Correct label: Label Labeled as: NAND : 0.02285714
+
+Correct label: Label Labeled as: XOR : 0.01714286
+
+Correct label: Label Labeled as: NOTBUBBLE : 0.005714286
+
+Correct label: Label Labeled as: LabelBox : 0.005714286
+
+Correct label: Label Labeled as: OR : 0.005714286
+
+Total that actually had label Label: 175
+
+Correct label: LabelBox Labeled as: LabelBox : 0.9428571
+
+Correct label: LabelBox Labeled as: NOTBUBBLE : 0.02857143
+
+Correct label: LabelBox Labeled as: Label : 0.02857143
+
+Total that actually had label LabelBox: 35
+
+Correct label: XOR Labeled as: NAND : 0.125
+
+Correct label: XOR Labeled as: NOR : 0.15625
+
+Correct label: XOR Labeled as: XOR : 0.71875
+
+Total that actually had label XOR: 32
+
+Correct label: Wire Labeled as: Wire : 0.6455399
+
+Correct label: Wire Labeled as: XOR : 0.04225352
+
+Correct label: Wire Labeled as: AND : 0.009389671
+
+Correct label: Wire Labeled as: Label : 0.03755869
+
+Correct label: Wire Labeled as: NAND : 0.04929578
+
+Correct label: Wire Labeled as: NOR : 0.08215962
+
+Correct label: Wire Labeled as: NOT : 0.03051643
+
+Correct label: Wire Labeled as: LabelBox : 0.01643192
+
+Correct label: Wire Labeled as: NOTBUBBLE : 0.06807512
+
+Correct label: Wire Labeled as: OR : 0.01877934
+
+Total that actually had label Wire: 426
+
+Correct label: NOT Labeled as: NOT : 0.7164179
+
+Correct label: NOT Labeled as: XOR : 0.01492537
+
+Correct label: NOT Labeled as: AND : 0.04477612
+
+Correct label: NOT Labeled as: NAND : 0.04477612
+
+Correct label: NOT Labeled as: NOR : 0.119403
+
+Correct label: NOT Labeled as: Label : 0.02985075
+
+Correct label: NOT Labeled as: LabelBox : 0.01492537
+
+Correct label: NOT Labeled as: OR : 0.01492537
+
+Total that actually had label NOT: 67
+
+Correct label: AND Labeled as: AND : 0.7472528
+
+Correct label: AND Labeled as: OR : 0.02197802
+
+Correct label: AND Labeled as: Label : 0.07692308
+
+Correct label: AND Labeled as: NAND : 0.08791209
+
+Correct label: AND Labeled as: NOTBUBBLE : 0.04395605
+
+Correct label: AND Labeled as: Wire : 0.01098901
+
+Correct label: AND Labeled as: LabelBox : 0.01098901
+
+Total that actually had label AND: 91
+
+Correct label: NOR Labeled as: NAND : 0.2105263
+
+Correct label: NOR Labeled as: NOR : 0.5263158
+
+Correct label: NOR Labeled as: XOR : 0.1578947
+
+Correct label: NOR Labeled as: NOT : 0.1052632
+
+Total that actually had label NOR: 19
+
+Correct label: OR Labeled as: AND : 0.2622951
+
+Correct label: OR Labeled as: OR : 0.295082
+
+Correct label: OR Labeled as: NAND : 0.3114754
+
+Correct label: OR Labeled as: XOR : 0.03278688
+
+Correct label: OR Labeled as: Label : 0.06557377
+
+Correct label: OR Labeled as: NOTBUBBLE : 0.03278688
+
+Total that actually had label OR: 61
+
+Correct label: NAND Labeled as: NAND : 0.7777778
+
+Correct label: NAND Labeled as: NOT : 0.1111111
+
+Correct label: NAND Labeled as: OR : 0.05555556
+
+Correct label: NAND Labeled as: NOR : 0.05555556
+
+Total that actually had label NAND: 18
+
+Correct label: NOTBUBBLE Labeled as: NOTBUBBLE : 0.9166667
+
+Correct label: NOTBUBBLE Labeled as: XOR : 0.08333334
+
+Total that actually had label NOTBUBBLE: 12
+
+
+
+
+
+
+Comparative results
+
+For class LabelBox, method1 was correct: 0.942857142857143 and method2 was correct: 0.657142857142857
+
+For class XOR, method1 was correct: 0.71875 and method2 was correct: 0.71875
+
+For class NOT, method1 was correct: 0.716417910447761 and method2 was correct: 0.73134328358209
+
+For class AND, method1 was correct: 0.747252747252747 and method2 was correct: 0.835164835164835
+
+For class NOR, method1 was correct: 0.526315789473684 and method2 was correct: 0.421052631578947
+
+For class OR, method1 was correct: 0.295081967213115 and method2 was correct: 0.524590163934426
+
+For class NAND, method1 was correct: 0.777777777777778 and method2 was correct: 0.333333333333333
+
+For class NOTBUBBLE, method1 was correct: 0.916666666666667 and method2 was correct: 0.666666666666667

@@ -1,0 +1,1 @@
+All of these files used to be inside Context Symbols, but they are all parts of gates, rather than whole gates, so they have been moved to their own directory.

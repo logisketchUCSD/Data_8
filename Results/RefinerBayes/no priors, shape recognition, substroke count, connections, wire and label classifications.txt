@@ -1,0 +1,138 @@
+Correct label: LabelBox Labeled as: LabelBox : 0.9090909
+
+Correct label: LabelBox Labeled as: NAND : 0.09090909
+
+Total that actually had label LabelBox: 33
+
+Correct label: Label Labeled as: Label : 0.147651
+
+Correct label: Label Labeled as: AND : 0.1610738
+
+Correct label: Label Labeled as: NOTBUBBLE : 0.4228188
+
+Correct label: Label Labeled as: NOT : 0.114094
+
+Correct label: Label Labeled as: NAND : 0.06711409
+
+Correct label: Label Labeled as: Wire : 0.03355705
+
+Correct label: Label Labeled as: NOR : 0.01342282
+
+Correct label: Label Labeled as: OR : 0.02013423
+
+Correct label: Label Labeled as: XOR : 0.02013423
+
+Total that actually had label Label: 149
+
+Correct label: AND Labeled as: AND : 0.9178082
+
+Correct label: AND Labeled as: NAND : 0.02739726
+
+Correct label: AND Labeled as: OR : 0.01369863
+
+Correct label: AND Labeled as: NOTBUBBLE : 0.01369863
+
+Correct label: AND Labeled as: NOR : 0.01369863
+
+Correct label: AND Labeled as: XOR : 0.01369863
+
+Total that actually had label AND: 73
+
+Correct label: Wire Labeled as: Wire : 0.9380054
+
+Correct label: Wire Labeled as: NOR : 0.02425876
+
+Correct label: Wire Labeled as: XOR : 0.02425876
+
+Correct label: Wire Labeled as: Label : 0.002695418
+
+Correct label: Wire Labeled as: OR : 0.002695418
+
+Correct label: Wire Labeled as: NOTBUBBLE : 0.005390835
+
+Correct label: Wire Labeled as: LabelBox : 0.002695418
+
+Total that actually had label Wire: 371
+
+Correct label: NOT Labeled as: NOT : 0.6825397
+
+Correct label: NOT Labeled as: XOR : 0.04761905
+
+Correct label: NOT Labeled as: AND : 0.0952381
+
+Correct label: NOT Labeled as: OR : 0.01587302
+
+Correct label: NOT Labeled as: NAND : 0.06349207
+
+Correct label: NOT Labeled as: NOR : 0.0952381
+
+Total that actually had label NOT: 63
+
+Correct label: OR Labeled as: OR : 0.2909091
+
+Correct label: OR Labeled as: AND : 0.2909091
+
+Correct label: OR Labeled as: XOR : 0.07272727
+
+Correct label: OR Labeled as: NAND : 0.2181818
+
+Correct label: OR Labeled as: NOT : 0.05454545
+
+Correct label: OR Labeled as: LabelBox : 0.01818182
+
+Correct label: OR Labeled as: NOR : 0.03636364
+
+Correct label: OR Labeled as: NOTBUBBLE : 0.01818182
+
+Total that actually had label OR: 55
+
+Correct label: XOR Labeled as: XOR : 0.7
+
+Correct label: XOR Labeled as: NOR : 0.2
+
+Correct label: XOR Labeled as: NAND : 0.1
+
+Total that actually had label XOR: 30
+
+Correct label: NOR Labeled as: NOR : 0.75
+
+Correct label: NOR Labeled as: AND : 0.0625
+
+Correct label: NOR Labeled as: XOR : 0.125
+
+Correct label: NOR Labeled as: NAND : 0.0625
+
+Total that actually had label NOR: 16
+
+Correct label: NAND Labeled as: NAND : 0.9375
+
+Correct label: NAND Labeled as: NOR : 0.0625
+
+Total that actually had label NAND: 16
+
+Correct label: NOTBUBBLE Labeled as: NOTBUBBLE : 1
+
+Total that actually had label NOTBUBBLE: 13
+
+
+
+
+
+
+Comparative results
+
+For class LabelBox, method1 was correct: 0.909090909090909 and method2 was correct: 0.575757575757576
+
+For class AND, method1 was correct: 0.917808219178082 and method2 was correct: 0.835616438356164
+
+For class NOT, method1 was correct: 0.682539682539683 and method2 was correct: 0.714285714285714
+
+For class OR, method1 was correct: 0.290909090909091 and method2 was correct: 0.563636363636364
+
+For class XOR, method1 was correct: 0.7 and method2 was correct: 0.733333333333333
+
+For class NOR, method1 was correct: 0.75 and method2 was correct: 0.6875
+
+For class NAND, method1 was correct: 0.9375 and method2 was correct: 0.3125
+
+For class NOTBUBBLE, method1 was correct: 1 and method2 was correct: 0.230769230769231
